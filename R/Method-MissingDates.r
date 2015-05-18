@@ -7,7 +7,7 @@
 #' 
 #' @aliases missingDates DailyPrecipitationSerie-methods
 #' 
-#' @exportMethod missingDates
+#' @exportMethod missing.dates
 setGeneric("missing.dates", def = function(object) {
       standardGeneric("missing.dates")
    }

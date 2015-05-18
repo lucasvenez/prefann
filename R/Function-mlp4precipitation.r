@@ -1,10 +1,10 @@
-#' @name mlp
+#' @name mlp4precipitation
 #' 
 #' @title Multilayer Perceptron (MLP)
 #' 
 #' @description A MLP for completing missing dates into a precipitation serie.
 #' 
-#' @param ... a set of objects of DailyPrecipitationSerie
+#' @param ... a set of objects of DailyPrecipitationSerie class
 #' 
 #' @export
 mlp4precipitation <- function(...) {

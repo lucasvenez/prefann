@@ -1,5 +1,7 @@
 #' @name export.data
+#' 
 #' @title Export data
+#' 
 #' @description It exports an object of class DailyPrecipitationSerie to a CSV file.
 #' 
 #' @aliases export.data DailyPrecipitationSerie-methods

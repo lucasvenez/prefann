@@ -8,8 +8,10 @@
 #' @param object an object of the class DailyPrecipitationSerie
 #' 
 #' @param method what type of method should be used. Possible methods are:
-#' \item{mlp}{for Multilayer Perceptron Artifical Neural Network}
-#' \item{glm}{for Generalized Linear Regression} 
+#' \itemize{
+#' \item \code{mlp} for Multilayer Perceptron Artifical Neural Network
+#' \item \code{glm} for Generalized Linear Regression
+#' } 
 #' 
 #' @aliases complete.serie DailyPrecipitationSerie-methods
 #' 

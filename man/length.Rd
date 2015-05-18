@@ -4,8 +4,12 @@
 \name{length}
 \alias{DailyPrecipitationSerie-methods}
 \alias{length}
+\title{length}
 \usage{
 \S4method{length}{DailyPrecipitationSerie}(x)
+}
+\description{
+It returns the number of observations into a daily precipitation serie.
 }
 \author{
 Lucas Venezian Povoa
