@@ -1,0 +1,17 @@
+Package: prefann
+Type: Package
+Title: prefann: Precipitation forecasting with Artificial Neural Network and others
+Version: 2.1
+Date: 2015-05-18
+LazyData: true
+Author: Lucas Venezian Povoa
+Maintainer: Lucas Venezian Povoa <lucasvenez@gmail.com>
+Description: It contains functions to forecast missing precipitation 
+   values using a daily precipitation serie.
+URL: https://github.com/lucasvenez/prefann
+BugReports: https://github.com/lucasvenez/prefann/issues
+Depends:
+    R (>= 2.14),
+    RSNNS
+License: GPL (>= 2)
+

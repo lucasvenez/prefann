@@ -1,0 +1,6 @@
+00443006 0428 (latitude) 4352 (longitude) 0 (altitude)
+00443007 0429 (latitude) 4355 (longitude) 0 (altitude)
+00444001 0408 (latitude) 4408 (longitude) 34 (altitude)
+00444005 0435 (latitude) 4440 (longitude) 60 (altitude)
+00444008 0459 (latitude) 4455 (longitude) 0 (altitude)
+
