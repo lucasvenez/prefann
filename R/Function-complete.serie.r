@@ -15,7 +15,7 @@
 #' 
 #' @author Lucas Venezian Povoa
 #' 
-#' @exportMethod 
+#' @exportMethod complete.serie
 setGeneric("complete.serie",
    def = function(serie, method) {
       standardGeneric("complete.serie")     

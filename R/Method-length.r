@@ -4,7 +4,7 @@
 #' 
 #' @author Lucas Venezian Povoa
 #' 
-#' @exportMethod 
+#' @exportMethod length
 setMethod("length", "DailyPrecipitationSerie",
    definition = function(x) {
       base::length(x@precipitation)

@@ -6,7 +6,7 @@
 #' 
 #' @author Lucas Venezian Povoa
 #' 
-#' @exportMethod 
+#' @exportMethod export.data
 setGeneric("export.data", 
    function(serie, file, sep = ",", dec = ".") {
       standardGeneric("export.data")

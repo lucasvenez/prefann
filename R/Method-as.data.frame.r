@@ -9,7 +9,7 @@
 #' 
 #' @author Lucas Venezian Povoa
 #' 
-#' @exportMethod
+#' @exportMethod as.data.frame
 setMethod("as.data.frame", "DailyPrecipitationSerie",
    definition = function(x) {
       
